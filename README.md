@@ -26,7 +26,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Kotlin](#kotlin)
-- [LaTeX](#latex)
+- [Latex](#latex)
 - [Perl](#perl)
 - [PHP](#php)
 - [Python](#python)
